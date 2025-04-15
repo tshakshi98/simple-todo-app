@@ -27,7 +27,7 @@ jobs:
       run: |
         APPLICATION_NAME="SimpleTodoApp"
         ENVIRONMENT_NAME="SimpleTodoEnv"
-        S3_BUCKET_NAME="simple-todo-app-bucket"
+        S3_BUCKET_NAME="simple-todo-app-bucket-shakshi-1"
 
         # Create a zip file of the application
         echo "Zipping application files..."
